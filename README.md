@@ -5,9 +5,9 @@
   </a>
   <h3 align="center">LockDawn (Completed Script)</h3>
   <p align="center">
-    <b>An Android-Based 3D Adventure Game In Understanding The Importance
+    An Android-Based 3D Adventure Game In Understanding The Importance
       <br />
-      Of Safety Protocols For The COVID-19 Pandemic<b/>
+      Of Safety Protocols For The COVID-19 Pandemic
   </p>
 </div>
 <br />
