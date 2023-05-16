@@ -19,21 +19,21 @@ Overall, LockDawn aims to leverage the power of video games to educate and engag
 
 
 ## Screenshots
-<p>
- <img src="https://drive.google.com/uc?export=view&id=1Hhib8K8nEw-ULNay71oCvOChwGtVb-em" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1jujC0AJecdYXo8HfE-f5W2K5VeIEZNOb" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1Wwp4W8WJwBKlvpPxjuOfGe81EHSyFb8u" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1hqgNblaJRpLZmKhUAtFZMYeVVIZo_yRb" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1C0JOySM6FuNpXM8lhcdogeqngje3eYcX" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1iPvmZKje58XDkEr0CB6EuOidsw90ND23" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1TRwH-vo1BtfPc5AoOX1YxFkfEGeKB_1W" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1sr35F34rCRiWuJnsGnoG2zkuYlz4Wj2d" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1XLWbEv0mD5ya1syqXLK85G9CK_pdxtLR" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1cX3_H7Mz0JAk4mIorkRP_9n14SvFO5Gt" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1baN3aYH62_3UhXbclvEoSvmgFWrmOkZ_" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1ZGv3vZt5kehv23O3C6vJk0Ox2CDKMrlr" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1ijlehIrT_8uVIBu1kF1y-Yyv9N55Rhtv" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
- <img src="https://drive.google.com/uc?export=view&id=1030nbX9lZzr4BWeMw23wzhJx9K1O2emL" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<p align="center">
+ <img src="images/main-menu.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/login-or-register.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/login.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/register.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/character-shop.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-one-objective.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-one-zombie-near-no-hud.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-tutorial.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-one-map.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-get-main-item.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/stage-one-survey.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/quarantine-start.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/quarantine-area.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+ <img src="images/quarantine-ads.jpg" style="width: 400px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 </p>
 
 
