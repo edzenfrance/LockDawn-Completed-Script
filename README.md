@@ -1,5 +1,14 @@
-# LockDawn (Completed Script)
-**An Android-Based 3D Adventure Game In Understanding The Importance Of Safety Protocols For The COVID-19 Pandemic**
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/app-icon.jpg" alt="Logo" width="150" height="150">
+  </a>
+  <h3 align="center">LockDawn (Completed Script)</h3>
+  <p align="center">
+    <b>An Android-Based 3D Adventure Game In Understanding The Importance Of Safety Protocols For The COVID-19 Pandemic<b/>
+  </p>
+</div>
+<br />
 
 ## Abstract
 LockDawn is an android-based 3D adventure game designed to teach people about the importance of following safety protocols during the COVID-19 pandemic. The game aims to remind users about safety measures both when they are outside and when they are at home. It provides basic information on using disinfectants and wearing personal protective equipment to protect against COVID-19. Through various situations, challenges, and game objectives, users will gain an understanding of why these safety protocols are crucial.
